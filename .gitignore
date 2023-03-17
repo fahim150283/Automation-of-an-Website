@@ -1,0 +1,8 @@
+/target
+/.vscode
+/.apt_generated_tests
+/.settings
+/test-output
+/.classpath
+/.project
+/src/main

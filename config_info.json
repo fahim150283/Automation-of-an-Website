@@ -1,0 +1,11 @@
+{
+  "homepage": "https://demoqa.com/",
+  "name": "John Smith",
+  "age": "30",
+  "city": "New York",
+  "firstname":"tester 1",
+  "lastname":"awesome",
+  "email":"tester@awesome.com",
+  "salary":"1000000",
+  "department":"automation"
+}
